@@ -7,18 +7,22 @@ So I will be focusing here on how to improve health and habits based on the data
 
 ### Average Daily Activity
 ![image](https://github.com/NicoGit333/Google-Capstone-Project---Bellabeat/assets/109071671/e98270d4-1fe5-468c-bf41-522b45a9a671)
+
 First we have the average activity minutes per day from this group. According to OMS the recommended daily activity should be at least 30 mins, here the group is exercising just 13.56 mins per day so it is very important to increase this number, we will see positive effects on health, energy, mental health and overall performance during the day. 
 
 ### Caloric Expenditure
 ![image](https://github.com/NicoGit333/Google-Capstone-Project---Bellabeat/assets/109071671/bc275626-4518-4df7-b856-7c423afd9903)
+
 Calories measure the energy that we consume or spend, in this case we see the avg spend of calories of the group. I want to point out that the more sedentary the person is the more calories he/she spends leading to more chances of getting overweight and several more deseases. On the contrary we can see a positive correlation when the person is more active, so the calorie expenditure is higher causing and improvement on healh, metabolism, energy and so on.
 
 ### Daily Total Sleep
 ![image](https://github.com/NicoGit333/Google-Capstone-Project---Bellabeat/assets/109071671/99b61f8c-772e-42f2-ba12-d5e63dd62595)
+
 Now I want to focus on sleep which is very important for us since it helps the immune system, recovery and more health benefits. The amount of sleep varies from one another but the recommendation is always between 7 - 8 hours (420 to 480 mins). We see that the correlation is positive if a person stays more in bed and his/her total minutes of sleep which is obvious, but this can give us ideas on for example set an alarm that tells us to go to sleep at an specific time.
 
 ### Weight and BMI
 ![image](https://github.com/NicoGit333/Google-Capstone-Project---Bellabeat/assets/109071671/6286d212-8619-404c-941e-6f0cee31dc7e)
+
 Last we have the weight and BMI (Body mass index) of the users, BMI is a value derived from the mass and height of the person, basically we want to see that our weight is healthy, BMI can go below 18.5 which is under weight, 18.5 to 24.9 that is a healthy weight, 25 to 29.9 that is overweight and over 30 which is obesity. We see that the average of the group is 21.57 which is a healthy weight and just one person that has a BMI of 47.54 which is obesity. We can see also that doing more steps daily can lower your BMI and weight. 
 
 ## Conclusions 
